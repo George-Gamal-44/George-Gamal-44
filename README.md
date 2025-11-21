@@ -1,5 +1,4 @@
 ## Hi there 👋
-Hi there 👋  
 I'm George Gamal, a Front-End Developer passionate about building clean and interactive web applications.
 
 <!--
